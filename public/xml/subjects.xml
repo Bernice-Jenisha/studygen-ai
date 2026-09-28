@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<curriculum department="Computer Science and Engineering" semester="6">
+  <subject id="CS601">
+    <code CSCode="CS601">CS601</code>
+    <name>Web Technologies &amp; Cloud Systems</name>
+    <credits>3</credits>
+    <faculty>Dr. K. Ram</faculty>
+    <studyHoursPerWeek>6</studyHoursPerWeek>
+    <difficulty>Intermediate</difficulty>
+    <description>Modern TypeScript architectures, asynchronous event loops, XML/JSON data streaming, session authentication, and high-concurrency microservices.</description>
+    <syllabusTopics>
+      <topic>Modern JavaScript &amp; TypeScript Ecosystems</topic>
+      <topic>Authentication &amp; Session Token Security</topic>
+      <topic>RESTful API Design &amp; Asynchronous AJAX</topic>
+      <topic>XML &amp; JSON Data Pipelines with DOMParser</topic>
+      <topic>Scalable E-Commerce &amp; Payment Flows</topic>
+      <topic>Automated Quality Assurance &amp; Testing</topic>
+    </syllabusTopics>
+  </subject>
+  <subject id="CS602">
+    <code CSCode="CS602">CS602</code>
+    <name>Database Management Systems</name>
+    <credits>4</credits>
+    <faculty>Prof. S. Meenakshi</faculty>
+    <studyHoursPerWeek>8</studyHoursPerWeek>
+    <difficulty>Advanced</difficulty>
+    <description>Relational algebra, SQL, Normalization (1NF to BCNF), Transaction processing, Concurrency control, and NoSQL.</description>
+    <syllabusTopics>
+      <topic>Entity-Relationship Modeling</topic>
+      <topic>SQL Queries &amp; Subqueries</topic>
+      <topic>Relational Normalization</topic>
+      <topic>ACID Properties and Recovery</topic>
+      <topic>MongoDB and Document Stores</topic>
+    </syllabusTopics>
+  </subject>
+  <subject id="CS603">
+    <code CSCode="CS603">CS603</code>
+    <name>Computer Networks</name>
+    <credits>4</credits>
+    <faculty>Dr. P. Arunkumar</faculty>
+    <studyHoursPerWeek>7</studyHoursPerWeek>
+    <difficulty>Intermediate</difficulty>
+    <description>OSI and TCP/IP protocol stacks, routing algorithms, socket programming, flow control, and network security.</description>
+    <syllabusTopics>
+      <topic>Data Link Layer &amp; Framing</topic>
+      <topic>Subnetting &amp; IPv4/IPv6 Routing</topic>
+      <topic>TCP 3-Way Handshake &amp; Flow Control</topic>
+      <topic>DNS, HTTP, and TLS Protocols</topic>
+    </syllabusTopics>
+  </subject>
+  <subject id="CS604">
+    <code CSCode="CS604">CS604</code>
+    <name>Artificial Intelligence &amp; Machine Learning</name>
+    <credits>4</credits>
+    <faculty>Dr. Ananya Sharma</faculty>
+    <studyHoursPerWeek>9</studyHoursPerWeek>
+    <difficulty>Advanced</difficulty>
+    <description>Search algorithms, supervised/unsupervised learning, neural networks, transformers, and LLM generative architectures.</description>
+    <syllabusTopics>
+      <topic>Informed &amp; Heuristic Search</topic>
+      <topic>Gradient Descent &amp; Backpropagation</topic>
+      <topic>Convolutional &amp; Recurrent Architectures</topic>
+      <topic>Attention Mechanisms &amp; Transformers</topic>
+      <topic>Gemini Generative API Integration</topic>
+    </syllabusTopics>
+  </subject>
+  <subject id="CS605">
+    <code CSCode="CS605">CS605</code>
+    <name>Design &amp; Analysis of Algorithms</name>
+    <credits>4</credits>
+    <faculty>Prof. Rajesh Venkat</faculty>
+    <studyHoursPerWeek>8</studyHoursPerWeek>
+    <difficulty>Advanced</difficulty>
+    <description>Asymptotic complexity, divide and conquer, greedy strategies, dynamic programming, and NP-completeness.</description>
+    <syllabusTopics>
+      <topic>Asymptotic Notation &amp; Recurrences</topic>
+      <topic>Greedy Paradigms &amp; Huffman Coding</topic>
+      <topic>Dynamic Programming (0/1 Knapsack, LCS)</topic>
+      <topic>Graph Traversal (Dijkstra, Bellman-Ford)</topic>
+      <topic>P vs NP and Reductions</topic>
+    </syllabusTopics>
+  </subject>
+</curriculum>

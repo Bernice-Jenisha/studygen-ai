@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<academicResources repository="StudyGen AI Academic Vault" updated="2026-09-28">
+  <resource id="RES-101">
+    <title>Web Architecture &amp; Scalable Systems Handbook</title>
+    <category>Engineering Guide</category>
+    <format>PDF</format>
+    <fileSize>4.2 MB</fileSize>
+    <author>Dept of Computer Science &amp; Engg</author>
+    <rating>4.9</rating>
+    <downloads>1420</downloads>
+    <accessLevel>Free</accessLevel>
+    <url>https://studygen.ai/vault/web-architecture-handbook.pdf</url>
+  </resource>
+  <resource id="RES-102">
+    <title>Database Normalization 1NF to BCNF Cheatsheet</title>
+    <category>Cheatsheet</category>
+    <format>PDF</format>
+    <fileSize>1.8 MB</fileSize>
+    <author>Prof. S. Meenakshi</author>
+    <rating>4.8</rating>
+    <downloads>2890</downloads>
+    <accessLevel>Free</accessLevel>
+    <url>https://studygen.ai/vault/dbms-normalization.pdf</url>
+  </resource>
+  <resource id="RES-103">
+    <title>Computer Networks Protocol Stack Architecture Guide</title>
+    <category>Lecture Notes</category>
+    <format>DOCX</format>
+    <fileSize>3.1 MB</fileSize>
+    <author>Dr. P. Arunkumar</author>
+    <rating>4.7</rating>
+    <downloads>980</downloads>
+    <accessLevel>Free</accessLevel>
+    <url>https://studygen.ai/vault/cn-osi-layers.docx</url>
+  </resource>
+  <resource id="RES-104">
+    <title>Top 100 Dynamic Programming Patterns &amp; Solutions</title>
+    <category>Code Repository</category>
+    <format>Code</format>
+    <fileSize>850 KB</fileSize>
+    <author>Prof. Rajesh Venkat</author>
+    <rating>5.0</rating>
+    <downloads>4120</downloads>
+    <accessLevel>Coins Required</accessLevel>
+    <url>https://studygen.ai/vault/dp-patterns.zip</url>
+  </resource>
+  <resource id="RES-105">
+    <title>Gemini Generative AI Integration in Full-Stack Apps</title>
+    <category>Reference Guide</category>
+    <format>Interactive</format>
+    <fileSize>2.4 MB</fileSize>
+    <author>StudyGen AI Research Team</author>
+    <rating>4.9</rating>
+    <downloads>3450</downloads>
+    <accessLevel>Free</accessLevel>
+    <url>https://studygen.ai/vault/gemini-fullstack.pdf</url>
+  </resource>
+</academicResources>

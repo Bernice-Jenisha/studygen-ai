@@ -1,0 +1,6 @@
+{
+  "name": "StudyGen AI",
+  "description": "Intelligent AI Study Planner and Productivity Assistant with smart timetable, AI quiz generator, notes summarizer, focus timer, and student marketplace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
